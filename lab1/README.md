@@ -48,10 +48,10 @@ What is the ciphertext of the hex-encoded text `the world is yours` against the 
 The following hex-encoded ciphertext was encoded against the
 single-letter key `$`, i.e. ASCII 36.
 
-        404b48484504404b48484504464d4848045d4b
+    404b48484504404b48484504464d4848045d4b
 
 Before decrypting, shortly explain what pattern(s) are present in this
-ciphertext that reveals the weak mode of encryption used.
+ciphertext due to the weak mode of encryption.
 
 Then, decrypt the text. What is the plaintext?
 
@@ -62,7 +62,7 @@ xor encoded with a single letter.
 
 Decrypt it. What is the first line?
 
-## Exercise 4: automate cracking single-letter xor.
+## Exercise 4: automate cracking single-letter xor
 
 Solve the previous exercise, but instead of searching for the correct
 key/plaintext with your eyes, make the computer do it. In other words,
@@ -71,7 +71,7 @@ ciphertext, will return you the single-byte key (and, if you want, the
 plaintext).
 
 You could devise a scoring function that checks, for a given
-decryption, if it `seems` like English. Then just iterate through all
+decryption, if it seems like English. Then just iterate through all
 possible keys and return the key whose decryption gets the best
 score.
 
@@ -104,12 +104,5 @@ encrypt the file `secret.zip`, which reveals the way to an important
 philosophical work.
 
 According to this masterpiece, what comes brand new?
-
-
-
-
-
-
-
 
 
