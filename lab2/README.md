@@ -145,7 +145,7 @@ independently, concatenate, unpad. Again, do not defer to your AES library for
 these steps, except for individual block decryption through
 `decrypt_aes_block()`.
 
-What is the decryption of the following ECB encoded ciphertext?
+What is the decryption of the following ECB encoded ciphertext? Use the key `If the mountains`.
 
     792c2e2ec4e18e9d3a82f6724cf53848
     abb28d529a85790923c94b5c5abc34f5
