@@ -195,7 +195,7 @@ therefore, you don't know the key.)
 2. What is the ciphertext of `welcome("Jim")`? Answer in hex.
 
 3. Obtain the ciphertext of a block whose plaintext is 16 times the byte 16:
-   `f0f0...f0`.
+   `1010...10`.
 
 4. Obtain the ciphertext of a block whose plaintext is "you are an admin".
 
