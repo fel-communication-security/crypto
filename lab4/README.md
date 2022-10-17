@@ -131,8 +131,3 @@ c. Write the following scenario, which represents a possible attack against a re
   - verify you were right, by comparing your "recovered" token with the "true" secret token.
 
 
-## Bonus: after your exploit in Ex.3c works
-
-Attack the webserver at http://breakme.zapto.org:9004/
-
-According to a peaceful poem, what do "Leaders" do?

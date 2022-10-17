@@ -275,34 +275,3 @@ condition for your loop):
     when the secret is complete?
 
 
-## Bonus: when you have finished Ex. 10
-
-The server at breakme.zapto.org:9000 encrypts your text followed by a secret,
-just like in Ex 10. Small difference: it will wait for input bytes until it
-receives a newline "\\n", at which point it replies with the hex encoded
-ciphertext.  (So, when you bruteforce the secret characters, skip ASCII 10.)
-
-According to an authority in the domain of secrets, how have been "things"?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
